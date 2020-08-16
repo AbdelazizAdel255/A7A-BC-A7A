@@ -1,1 +1,2 @@
-# A7A-BC-A7A
+# Elenore
+Elenore - Multi-use Discord Bot.
